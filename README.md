@@ -1,5 +1,4 @@
 # Vehicles-Type-Counter
-=======
 
 # <h2> Türkçe Açıklama </h2>
 ---
