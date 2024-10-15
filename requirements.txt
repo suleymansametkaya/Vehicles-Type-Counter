@@ -1,0 +1,12 @@
+numpy
+matplotlib
+scipy
+scikit-image
+filterpy
+mysql-connector-python
+opencv-python
+cvzone
+lap
+torch
+ultralytics
+datetime
